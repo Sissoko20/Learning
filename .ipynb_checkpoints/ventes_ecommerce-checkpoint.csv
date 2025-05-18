@@ -1,0 +1,301 @@
+date,client,produit,quantite,prix_unitaire,total,Region
+2024-04-20,client_15,Webcam,4,83,332,Nord
+2024-04-25,client_6,Câble HDMI,3,43,129,Sud
+2024-01-26,client_8,Webcam,3,26,78,Est
+2024-05-23,client_6,Casque Audio,5,251,1255,Nord
+2024-03-12,client_2,Disque Dur,3,186,558,Ouest
+2024-05-03,client_2,Souris,3,71,213,Est
+2024-01-06,client_6,Disque Dur,2,60,120,Sud
+2024-03-29,client_17,Clavier,1,50,50,Ouest
+2024-03-01,client_11,Écran,3,96,288,Nord
+2024-03-26,client_18,Webcam,1,46,46,Sud
+2024-05-06,client_1,Écran,5,39,195,Nord
+2024-05-12,client_11,Webcam,2,145,290,Sud
+2024-02-21,client_4,Écran,3,33,99,Est
+2024-05-11,client_13,Disque Dur,2,95,190,Nord
+2024-05-22,client_17,Souris,5,206,1030,Ouest
+2024-01-27,client_2,Câble HDMI,5,122,610,Est
+2024-02-11,client_5,Webcam,1,278,278,Sud
+2024-03-31,client_3,Tapis de souris,5,269,1345,Ouest
+2024-04-26,client_1,Webcam,1,181,181,Nord
+2024-01-22,client_17,Souris,2,81,162,Sud
+2024-01-03,client_4,Clavier,1,283,283,Nord
+2024-01-26,client_15,Webcam,2,152,304,Sud
+2024-05-04,client_10,Clavier,5,76,380,Est
+2024-01-19,client_12,Chargeur,3,132,396,Nord
+2024-05-30,client_8,Écran,2,31,62,Ouest
+2024-01-10,client_7,Casque Audio,4,278,1112,Est
+2024-02-17,client_1,SSD,5,114,570,Sud
+2024-01-28,client_16,SSD,3,229,687,Ouest
+2024-04-10,client_14,Écran,2,259,518,Nord
+2024-03-11,client_4,Câble HDMI,2,262,524,Sud
+2024-05-07,client_4,Clavier,3,56,168,Nord
+2024-04-23,client_1,Souris,4,13,52,Sud
+2024-04-10,client_11,Clavier,5,251,1255,Est
+2024-04-22,client_3,SSD,1,172,172,Nord
+2024-05-06,client_14,Webcam,2,274,548,Ouest
+2024-03-15,client_9,Chargeur,1,10,10,Est
+2024-05-17,client_13,Casque Audio,4,128,512,Sud
+2024-04-23,client_6,Casque Audio,1,294,294,Ouest
+2024-01-18,client_13,Casque Audio,2,125,250,Nord
+2024-01-04,client_18,Webcam,3,173,519,Sud
+2024-01-05,client_9,Chargeur,5,92,460,Nord
+2024-05-30,client_14,Chargeur,4,212,848,Sud
+2024-03-20,client_1,Webcam,1,69,69,Est
+2024-05-13,client_6,Câble HDMI,5,57,285,Nord
+2024-01-15,client_19,Webcam,2,79,158,Ouest
+2024-03-16,client_12,SSD,4,66,264,Est
+2024-02-01,client_4,Disque Dur,1,296,296,Sud
+2024-03-02,client_3,Écran,2,70,140,Ouest
+2024-01-13,client_10,Chargeur,5,201,1005,Nord
+2024-02-02,client_15,Clavier,5,26,130,Sud
+2024-04-18,client_7,Écran,2,243,486,Nord
+2024-03-05,client_14,Écran,3,98,294,Sud
+2024-01-18,client_17,Disque Dur,3,179,537,Est
+2024-03-09,client_4,Clavier,2,134,268,Nord
+2024-02-08,client_2,Chargeur,5,105,525,Ouest
+2024-04-21,client_1,Webcam,4,97,388,Est
+2024-02-08,client_19,Câble HDMI,3,291,873,Sud
+2024-03-20,client_19,Clavier,4,220,880,Ouest
+2024-05-14,client_18,Webcam,3,189,567,Nord
+2024-01-08,client_13,Chargeur,3,269,807,Sud
+2024-05-30,client_14,Chargeur,2,259,518,Nord
+2024-05-06,client_4,Câble HDMI,4,188,752,Sud
+2024-03-05,client_7,Disque Dur,2,173,346,Est
+2024-05-28,client_6,Souris,4,53,212,Nord
+2024-05-14,client_7,Chargeur,1,145,145,Ouest
+2024-02-27,client_17,Casque Audio,3,188,564,Est
+2024-02-25,client_9,Câble HDMI,2,230,460,Sud
+2024-03-03,client_5,SSD,5,154,770,Ouest
+2024-02-22,client_17,Écran,2,203,406,Nord
+2024-05-07,client_10,Écran,3,265,795,Sud
+2024-05-29,client_7,Tapis de souris,1,44,44,Nord
+2024-04-04,client_14,Tapis de souris,2,130,260,Sud
+2024-01-07,client_14,Câble HDMI,3,164,492,Est
+2024-05-21,client_15,Câble HDMI,1,247,247,Nord
+2024-01-02,client_3,Chargeur,3,83,249,Ouest
+2024-05-30,client_8,Souris,2,136,272,Est
+2024-05-02,client_20,Souris,2,262,524,Sud
+2024-03-31,client_11,Webcam,5,286,1430,Ouest
+2024-03-07,client_9,Disque Dur,4,83,332,Nord
+2024-01-08,client_13,Tapis de souris,2,144,288,Sud
+2024-05-15,client_1,Écran,4,85,340,Nord
+2024-04-04,client_2,Casque Audio,3,124,372,Sud
+2024-02-21,client_20,Clavier,4,49,196,Est
+2024-04-08,client_1,Disque Dur,2,149,298,Nord
+2024-01-29,client_8,Chargeur,5,199,995,Ouest
+2024-04-11,client_3,SSD,1,76,76,Est
+2024-05-30,client_14,Chargeur,2,221,442,Sud
+2024-03-10,client_8,Webcam,4,81,324,Ouest
+2024-05-04,client_8,Disque Dur,3,292,876,Nord
+2024-03-19,client_4,Souris,5,126,630,Sud
+2024-05-06,client_10,Tapis de souris,1,64,64,Nord
+2024-04-26,client_8,Chargeur,4,224,896,Sud
+2024-04-19,client_11,Souris,5,89,445,Est
+2024-03-26,client_11,Disque Dur,4,295,1180,Nord
+2024-03-01,client_10,Câble HDMI,2,71,142,Ouest
+2024-01-08,client_17,SSD,4,75,300,Est
+2024-02-02,client_18,Câble HDMI,3,278,834,Sud
+2024-03-13,client_1,Tapis de souris,4,20,80,Ouest
+2024-05-05,client_8,Écran,5,78,390,Nord
+2024-03-22,client_5,Souris,5,244,1220,Sud
+2024-03-07,client_18,Tapis de souris,3,211,633,Nord
+2024-04-08,client_13,Câble HDMI,1,260,260,Sud
+2024-02-03,client_2,Tapis de souris,4,67,268,Est
+2024-02-21,client_11,Casque Audio,5,64,320,Nord
+2024-02-04,client_13,Écran,4,189,756,Ouest
+2024-02-27,client_12,Souris,2,175,350,Est
+2024-01-22,client_6,Chargeur,2,213,426,Sud
+2024-05-07,client_9,Souris,4,298,1192,Ouest
+2024-02-01,client_12,Écran,3,35,105,Nord
+2024-03-30,client_16,Écran,1,288,288,Sud
+2024-05-03,client_11,Tapis de souris,5,142,710,Nord
+2024-01-06,client_5,Chargeur,2,165,330,Sud
+2024-01-03,client_15,Tapis de souris,4,249,996,Est
+2024-04-11,client_14,Souris,1,181,181,Nord
+2024-01-14,client_1,Chargeur,1,226,226,Ouest
+2024-04-27,client_8,Câble HDMI,5,250,1250,Est
+2024-03-21,client_15,Souris,2,211,422,Sud
+2024-02-26,client_5,Câble HDMI,5,25,125,Ouest
+2024-03-16,client_3,Câble HDMI,5,80,400,Nord
+2024-03-03,client_14,Câble HDMI,4,139,556,Sud
+2024-04-04,client_11,SSD,4,74,296,Nord
+2024-05-23,client_19,Casque Audio,1,152,152,Sud
+2024-01-26,client_5,Souris,4,245,980,Est
+2024-01-30,client_17,Souris,5,101,505,Nord
+2024-02-13,client_18,Clavier,3,294,882,Ouest
+2024-04-14,client_16,Tapis de souris,4,182,728,Est
+2024-03-29,client_4,Webcam,4,252,1008,Sud
+2024-05-27,client_3,Casque Audio,1,187,187,Ouest
+2024-04-29,client_7,Disque Dur,3,193,579,Nord
+2024-02-14,client_18,SSD,1,49,49,Sud
+2024-01-05,client_4,Disque Dur,5,120,600,Nord
+2024-05-26,client_7,Webcam,1,299,299,Sud
+2024-02-08,client_11,Chargeur,4,284,1136,Est
+2024-05-22,client_16,Écran,2,243,486,Nord
+2024-04-15,client_10,Chargeur,4,86,344,Ouest
+2024-01-30,client_3,Tapis de souris,1,261,261,Est
+2024-05-03,client_8,Écran,1,283,283,Sud
+2024-04-15,client_14,Casque Audio,3,147,441,Ouest
+2024-01-25,client_13,Chargeur,4,217,868,Nord
+2024-04-24,client_17,Chargeur,5,66,330,Sud
+2024-03-27,client_11,Chargeur,5,219,1095,Nord
+2024-05-30,client_3,Casque Audio,3,252,756,Sud
+2024-05-23,client_7,Câble HDMI,2,55,110,Est
+2024-05-27,client_5,Tapis de souris,4,222,888,Nord
+2024-05-23,client_14,Chargeur,1,88,88,Ouest
+2024-04-02,client_17,Chargeur,2,121,242,Est
+2024-04-06,client_15,Chargeur,3,125,375,Sud
+2024-04-16,client_19,Tapis de souris,1,93,93,Ouest
+2024-05-30,client_19,Souris,5,78,390,Nord
+2024-01-14,client_9,SSD,4,32,128,Sud
+2024-04-11,client_20,Souris,1,39,39,Nord
+2024-03-11,client_4,Souris,5,289,1445,Sud
+2024-03-02,client_4,Chargeur,3,132,396,Est
+2024-05-21,client_10,SSD,2,29,58,Nord
+2024-04-20,client_7,Webcam,1,242,242,Ouest
+2024-01-24,client_5,Câble HDMI,3,191,573,Est
+2024-03-05,client_10,SSD,4,189,756,Sud
+2024-03-31,client_15,Souris,1,215,215,Ouest
+2024-03-12,client_16,Clavier,4,93,372,Nord
+2024-03-27,client_18,Câble HDMI,4,51,204,Sud
+2024-05-26,client_13,Webcam,2,264,528,Nord
+2024-03-01,client_3,Casque Audio,1,261,261,Sud
+2024-04-25,client_20,Casque Audio,5,163,815,Est
+2024-05-17,client_1,Clavier,5,44,220,Nord
+2024-01-12,client_20,Clavier,1,185,185,Ouest
+2024-03-25,client_14,Clavier,2,86,172,Est
+2024-01-05,client_8,Câble HDMI,2,219,438,Sud
+2024-05-20,client_10,Disque Dur,5,273,1365,Ouest
+2024-02-05,client_6,Casque Audio,5,62,310,Nord
+2024-01-17,client_20,Disque Dur,4,51,204,Sud
+2024-05-15,client_17,Disque Dur,5,136,680,Nord
+2024-04-27,client_4,SSD,4,91,364,Sud
+2024-02-04,client_8,Écran,2,78,156,Est
+2024-02-01,client_7,Chargeur,5,68,340,Nord
+2024-01-18,client_17,Souris,1,54,54,Ouest
+2024-02-05,client_14,Écran,5,67,335,Est
+2024-02-15,client_19,Disque Dur,2,266,532,Sud
+2024-04-08,client_10,Écran,2,223,446,Ouest
+2024-01-08,client_4,Clavier,4,185,740,Nord
+2024-03-22,client_12,Disque Dur,4,289,1156,Sud
+2024-04-04,client_15,Tapis de souris,4,120,480,Nord
+2024-03-13,client_18,Chargeur,2,234,468,Sud
+2024-05-23,client_1,Chargeur,3,78,234,Est
+2024-02-29,client_8,Casque Audio,5,62,310,Nord
+2024-02-02,client_20,Casque Audio,1,155,155,Ouest
+2024-03-20,client_12,Chargeur,2,73,146,Est
+2024-04-02,client_7,Tapis de souris,4,176,704,Sud
+2024-03-10,client_6,Casque Audio,1,84,84,Ouest
+2024-01-27,client_16,Tapis de souris,2,52,104,Nord
+2024-01-16,client_4,Casque Audio,5,247,1235,Sud
+2024-02-08,client_9,Tapis de souris,1,228,228,Nord
+2024-01-23,client_3,Disque Dur,4,193,772,Sud
+2024-01-22,client_14,Souris,5,163,815,Est
+2024-02-28,client_11,Casque Audio,3,170,510,Nord
+2024-03-01,client_17,SSD,3,58,174,Ouest
+2024-05-07,client_12,Webcam,1,132,132,Est
+2024-02-09,client_6,Écran,5,11,55,Sud
+2024-03-21,client_7,Casque Audio,5,141,705,Ouest
+2024-03-26,client_13,Souris,4,98,392,Nord
+2024-01-02,client_1,Casque Audio,4,237,948,Sud
+2024-01-10,client_2,Webcam,3,147,441,Nord
+2024-03-31,client_9,Câble HDMI,3,39,117,Sud
+2024-02-15,client_9,Câble HDMI,4,149,596,Est
+2024-01-23,client_6,Écran,3,126,378,Nord
+2024-03-30,client_6,SSD,5,29,145,Ouest
+2024-01-04,client_5,Webcam,1,211,211,Est
+2024-01-05,client_20,Écran,5,141,705,Sud
+2024-02-27,client_2,Souris,4,30,120,Ouest
+2024-03-03,client_13,SSD,4,113,452,Nord
+2024-05-25,client_10,Tapis de souris,3,161,483,Sud
+2024-04-03,client_10,Chargeur,3,56,168,Nord
+2024-03-02,client_11,Souris,3,81,243,Sud
+2024-02-21,client_9,Disque Dur,5,171,855,Est
+2024-03-19,client_5,Disque Dur,5,278,1390,Nord
+2024-05-18,client_5,Écran,5,256,1280,Ouest
+2024-03-08,client_20,Webcam,4,247,988,Est
+2024-02-08,client_11,Disque Dur,3,272,816,Sud
+2024-02-02,client_6,Webcam,1,192,192,Ouest
+2024-05-03,client_18,Écran,5,63,315,Nord
+2024-02-24,client_7,Souris,4,34,136,Sud
+2024-01-23,client_1,Souris,3,223,669,Nord
+2024-03-09,client_2,Écran,5,201,1005,Sud
+2024-05-11,client_2,Souris,5,271,1355,Est
+2024-04-15,client_16,Webcam,1,156,156,Nord
+2024-01-01,client_19,Câble HDMI,2,13,26,Ouest
+2024-02-17,client_19,SSD,1,44,44,Est
+2024-05-02,client_20,Tapis de souris,2,179,358,Sud
+2024-02-26,client_9,Câble HDMI,5,15,75,Ouest
+2024-04-24,client_12,Écran,2,229,458,Nord
+2024-03-12,client_4,Disque Dur,1,65,65,Sud
+2024-05-09,client_16,Câble HDMI,5,272,1360,Nord
+2024-01-17,client_19,SSD,5,165,825,Sud
+2024-03-06,client_10,Chargeur,2,181,362,Est
+2024-02-05,client_11,Chargeur,5,94,470,Nord
+2024-03-03,client_18,Clavier,4,200,800,Ouest
+2024-01-05,client_20,Casque Audio,5,224,1120,Est
+2024-05-24,client_4,Souris,1,56,56,Sud
+2024-05-27,client_5,Clavier,5,291,1455,Ouest
+2024-01-02,client_1,Disque Dur,5,55,275,Nord
+2024-02-05,client_7,Écran,2,209,418,Sud
+2024-01-25,client_4,Clavier,3,50,150,Nord
+2024-04-18,client_10,Tapis de souris,5,69,345,Sud
+2024-02-16,client_20,Chargeur,4,99,396,Est
+2024-01-15,client_13,Chargeur,1,78,78,Nord
+2024-02-17,client_17,Webcam,1,121,121,Ouest
+2024-05-18,client_4,Clavier,2,53,106,Est
+2024-02-19,client_20,Webcam,2,125,250,Sud
+2024-03-10,client_13,Écran,3,206,618,Ouest
+2024-01-06,client_12,SSD,2,178,356,Nord
+2024-05-04,client_15,Disque Dur,4,166,664,Sud
+2024-03-17,client_2,Écran,4,233,932,Nord
+2024-04-05,client_20,Tapis de souris,3,120,360,Sud
+2024-02-26,client_3,Clavier,3,253,759,Est
+2024-04-04,client_5,Écran,5,38,190,Nord
+2024-01-05,client_16,Casque Audio,1,24,24,Ouest
+2024-05-19,client_20,Tapis de souris,5,122,610,Est
+2024-01-17,client_7,SSD,5,276,1380,Sud
+2024-02-16,client_20,Câble HDMI,1,256,256,Ouest
+2024-02-18,client_18,Casque Audio,3,100,300,Nord
+2024-04-12,client_8,Chargeur,3,118,354,Sud
+2024-04-14,client_2,Clavier,5,102,510,Nord
+2024-01-23,client_3,Souris,3,28,84,Sud
+2024-04-25,client_8,Souris,5,87,435,Est
+2024-04-27,client_18,SSD,4,229,916,Nord
+2024-05-17,client_15,Clavier,1,236,236,Ouest
+2024-02-11,client_13,Webcam,4,73,292,Est
+2024-02-13,client_14,Webcam,4,41,164,Sud
+2024-02-03,client_4,Casque Audio,4,244,976,Ouest
+2024-05-28,client_1,Disque Dur,5,243,1215,Nord
+2024-01-05,client_14,Webcam,2,84,168,Sud
+2024-03-04,client_17,SSD,3,151,453,Nord
+2024-05-20,client_17,Tapis de souris,3,206,618,Sud
+2024-04-14,client_4,Chargeur,2,123,246,Nord
+2024-01-07,client_13,Chargeur,1,249,249,Sud
+2024-01-19,client_12,Écran,2,120,240,Est
+2024-05-17,client_7,SSD,2,210,420,Nord
+2024-03-27,client_12,Disque Dur,1,113,113,Ouest
+2024-03-30,client_11,Câble HDMI,4,243,972,Est
+2024-05-12,client_3,Câble HDMI,5,12,60,Sud
+2024-02-19,client_2,Webcam,5,280,1400,Ouest
+2024-01-31,client_11,Écran,3,41,123,Nord
+2024-03-11,client_17,Clavier,1,26,26,Sud
+2024-02-08,client_19,Casque Audio,3,197,591,Nord
+2024-01-21,client_6,Casque Audio,5,146,730,Sud
+2024-02-16,client_5,Écran,4,244,976,Est
+2024-04-11,client_20,Tapis de souris,5,230,1150,Nord
+2024-02-27,client_14,Tapis de souris,3,113,339,Ouest
+2024-05-17,client_2,Câble HDMI,2,211,422,Nord
+2024-05-01,client_10,SSD,1,116,116,Sud
+2024-01-13,client_4,Casque Audio,3,50,150,Est
+2024-04-25,client_12,Chargeur,3,248,744,Nord
+2024-05-10,client_1,Disque Dur,3,181,543,Ouest
+2024-05-22,client_13,Webcam,3,170,510,Est
+2024-02-14,client_7,Écran,1,66,66,Sud
+2024-03-25,client_17,Casque Audio,2,237,474,Ouest
+2024-04-30,client_20,Écran,4,60,240,Nord
+2024-04-20,client_14,Webcam,2,48,96,Sud
+2024-03-16,client_7,Écran,2,14,28,Nord
+2024-02-03,client_3,Tapis de souris,5,66,330,Sud
+2024-03-26,client_2,Câble HDMI,5,236,1180,Est
